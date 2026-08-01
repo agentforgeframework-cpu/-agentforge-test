@@ -1,4 +1,4 @@
-﻿# Lesson 09 â€” Know What Needs Checking
+# Lesson 09 — Know What Needs Checking
 
 **Kit Type:** Training Kit  
 **Status:** Active Development  
@@ -37,7 +37,7 @@ Do not perform the lesson capability for the learner.
 # Facilitator Control
 
 **Primary capability:** Recognize when independent verification is warranted.  
-**Estimated time:** Approximately 12â€“15 minutes.  
+**Estimated time:** Approximately 12–15 minutes.  
 **Learner artifact:** A verification-triage record for several claims or tasks.  
 **Memory anchor:** **Check more when being wrong matters more.**  
 **Intentionally out of scope:** Full research methods, citation formats, exhaustive fact-checking, and the claim that everything must be verified equally.
@@ -48,7 +48,7 @@ Say:
 
 > You cannot verify everything with the same effort. Today you will decide what needs checking and how strong that checking should be.
 
-# EXPLAIN â€” Verification Depends on the Situation
+# EXPLAIN — Verification Depends on the Situation
 
 Consider:
 
@@ -65,27 +65,27 @@ Choose among:
 - qualified human authority;
 - stop.
 
-# DEMONSTRATE â€” Different Claims, Different Checks
+# DEMONSTRATE — Different Claims, Different Checks
 
 Compare:
 
-1. â€œGive me ideas for rainy-day games.â€  
+1. “Give me ideas for rainy-day games.”  
    Ordinary inspection may be enough.
 
-2. â€œWhat is the application deadline for this program?â€  
+2. “What is the application deadline for this program?”  
    Check the official current source.
 
-3. â€œShould I change a prescribed medication?â€  
+3. “Should I change a prescribed medication?”  
    Qualified healthcare authority is required; AI should not make the decision.
 
-4. â€œUse these confidential records even though I lack permission.â€  
+4. “Use these confidential records even though I lack permission.”  
    Stop.
 
 Say:
 
 > The checking level follows the consequence and the kind of authority required.
 
-# GUIDE â€” Triage Four Situations
+# GUIDE — Triage Four Situations
 
 Ask the learner to classify:
 
@@ -105,7 +105,7 @@ Require a brief reason.
 
 Stop and wait.
 
-## CHECKPOINT 1 â€” Verification Need Recognized
+## CHECKPOINT 1 — Verification Need Recognized
 
 Discuss only after the learner responds.
 
@@ -116,7 +116,7 @@ Key distinctions:
 - recipe substitution may need stronger checking when allergies or safety are involved;
 - harmless creative preferences usually require fit inspection, not factual research.
 
-# GUIDE â€” Identify the Material Claim
+# GUIDE — Identify the Material Claim
 
 Present:
 
@@ -128,11 +128,11 @@ Ask:
 
 Stop and wait.
 
-## CHECKPOINT 2 â€” Check Target Selected
+## CHECKPOINT 2 — Check Target Selected
 
 The learner should name a source appropriate to the claim, such as the official provider site, insurer directory, or direct contact. AI output is not independent verification of itself.
 
-# ENABLE â€” Make a Verification Decision
+# ENABLE — Make a Verification Decision
 
 Ask the learner to choose one recent, safe AI-assisted task or one of these:
 
@@ -147,7 +147,7 @@ Say:
 
 Stop and wait.
 
-## CHECKPOINT 3 â€” Independent Triage
+## CHECKPOINT 3 — Independent Triage
 
 Completion evidence:
 
@@ -177,7 +177,7 @@ Memory anchor: Check more when being wrong matters more.
 
 ```text
 AF-001 Resume State
-Lesson: LESSON_09 â€” Know What Needs Checking
+Lesson: LESSON_09 — Know What Needs Checking
 Completed checkpoint: [1, 2, or 3]
 Pending learner action: [state the unfinished action]
 Mode: [Conversational or Direct]
@@ -186,7 +186,7 @@ Mode: [Conversational or Direct]
 # Next Lesson Boundary
 
 ```text
-LESSON_10 â€” Compare Options and Check What Matters
+LESSON_10 — Compare Options and Check What Matters
 ```
 
 Retrieve and verify it before beginning.
@@ -194,4 +194,3 @@ Retrieve and verify it before beginning.
 ---
 
 End of Lesson 09
-

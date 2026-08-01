@@ -1,4 +1,4 @@
-﻿# Lesson 12 â€” Apply the Full Cycle to a Real-Life Task
+# Lesson 12 — Apply the Full Cycle to a Real-Life Task
 
 **Kit Type:** Training Kit  
 **Status:** Active Development  
@@ -36,8 +36,8 @@ Do not perform the lesson capability for the learner.
 
 # Facilitator Control
 
-**Primary capability:** Transfer Choose â†’ Ask â†’ Inspect â†’ Refine â†’ Check â†’ Decide to a personally relevant task.  
-**Estimated time:** Approximately 15â€“17 minutes.  
+**Primary capability:** Transfer Choose → Ask → Inspect → Refine → Check → Decide to a personally relevant task.  
+**Estimated time:** Approximately 15–17 minutes.  
 **Learner artifact:** A compact full-cycle record.  
 **Memory anchor:** **Use the cycle; keep the command.**  
 **Intentionally out of scope:** Large projects, high-stakes personal decisions, confidential work, and facilitator-designed solutions.
@@ -53,10 +53,10 @@ Say:
 Display only:
 
 ```text
-Choose â†’ Ask â†’ Inspect â†’ Refine â†’ Check â†’ Decide
+Choose → Ask → Inspect → Refine → Check → Decide
 ```
 
-# CHOOSE â€” Bound the Task
+# CHOOSE — Bound the Task
 
 Offer choices to reduce blank-page friction:
 
@@ -76,7 +76,7 @@ Ask the learner to choose a task that:
 
 Stop and wait.
 
-## CHECKPOINT 1 â€” Task Chosen
+## CHECKPOINT 1 — Task Chosen
 
 Ask only:
 
@@ -84,7 +84,7 @@ Ask only:
 
 Stop and wait.
 
-# ASK â€” Make the Request
+# ASK — Make the Request
 
 The learner supplies purpose, relevant context, constraints, and desired form.
 
@@ -92,7 +92,7 @@ Do not silently add missing context. Ask a brief question only if the task canno
 
 Stop and wait while the learner makes the request.
 
-# INSPECT â€” Judge the First Result
+# INSPECT — Judge the First Result
 
 Ask:
 
@@ -100,7 +100,7 @@ Ask:
 
 Stop and wait.
 
-# REFINE â€” Direct One Meaningful Change
+# REFINE — Direct One Meaningful Change
 
 Ask:
 
@@ -110,9 +110,9 @@ The learner sends the revision request.
 
 Stop and wait.
 
-## CHECKPOINT 2 â€” Result Refined
+## CHECKPOINT 2 — Result Refined
 
-# CHECK â€” Decide What Requires Verification
+# CHECK — Decide What Requires Verification
 
 Ask:
 
@@ -122,7 +122,7 @@ When yes, the learner checks it or names the appropriate independent source and 
 
 Stop and wait.
 
-# DECIDE â€” Retain Authority
+# DECIDE — Retain Authority
 
 Ask the learner to choose:
 
@@ -137,13 +137,13 @@ Require a reason.
 
 Stop and wait.
 
-## CHECKPOINT 3 â€” Full Cycle Completed
+## CHECKPOINT 3 — Full Cycle Completed
 
 Ask the learner to complete:
 
 ```text
 Task:
-AIâ€™s bounded role:
+AI’s bounded role:
 Information protected:
 First-result weakness:
 Refinement:
@@ -152,13 +152,13 @@ My decision:
 Responsibility that remained mine:
 ```
 
-The facilitator may organize the learnerâ€™s statements after they provide them.
+The facilitator may organize the learner’s statements after they provide them.
 
 # Lesson Recap
 
 Say:
 
-> You used AI as part of a controlled process. The value came from the full cycleâ€”not from accepting the first result.
+> You used AI as part of a controlled process. The value came from the full cycle—not from accepting the first result.
 
 Display:
 
@@ -174,7 +174,7 @@ Memory anchor: Use the cycle; keep the command.
 
 ```text
 AF-001 Resume State
-Lesson: LESSON_12 â€” Apply the Full Cycle to a Real-Life Task
+Lesson: LESSON_12 — Apply the Full Cycle to a Real-Life Task
 Completed stage: [Choose, Ask, Inspect, Refine, Check, or Decide]
 Pending learner action: [state the unfinished action]
 Mode: [Conversational or Direct]
@@ -183,7 +183,7 @@ Mode: [Conversational or Direct]
 # Next Lesson Boundary
 
 ```text
-LESSON_13 â€” Build Your Human-in-Command Playbook
+LESSON_13 — Build Your Human-in-Command Playbook
 ```
 
 Retrieve and verify it before beginning.
@@ -191,4 +191,3 @@ Retrieve and verify it before beginning.
 ---
 
 End of Lesson 12
-

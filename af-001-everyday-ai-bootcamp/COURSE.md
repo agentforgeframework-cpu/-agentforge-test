@@ -10,8 +10,6 @@
 
 ---
 
----
-
 # Course Authority
 
 `COURSE.md` is the authoritative course-level operating document for AF-001 — Everyday AI Bootcamp.

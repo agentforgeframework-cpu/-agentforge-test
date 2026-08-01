@@ -1,4 +1,4 @@
-﻿# Lesson 10 â€” Compare Options and Check What Matters
+# Lesson 10 — Compare Options and Check What Matters
 
 **Kit Type:** Training Kit  
 **Status:** Active Development  
@@ -37,7 +37,7 @@ Do not perform the lesson capability for the learner.
 # Facilitator Control
 
 **Primary capability:** Use human-selected criteria and selective external evidence to support a decision.  
-**Estimated time:** Approximately 15â€“17 minutes.  
+**Estimated time:** Approximately 15–17 minutes.  
 **Learner artifact:** A two- or three-option comparison, one checked material claim, and a human decision.  
 **Memory anchor:** **You choose the criteria; evidence checks the claim.**  
 **Intentionally out of scope:** High-stakes decisions, large research projects, extensive scoring systems, and AI-selected values presented as neutral.
@@ -55,7 +55,7 @@ Say:
 
 > AI can organize a comparison, but it should not quietly choose what matters to you. Today you will select the criteria, check one important claim, and make the decision yourself.
 
-# EXPLAIN â€” Comparison Has Three Human Responsibilities
+# EXPLAIN — Comparison Has Three Human Responsibilities
 
 The learner decides:
 
@@ -65,7 +65,7 @@ The learner decides:
 
 AI may help organize known information and surface tradeoffs.
 
-# DEMONSTRATE â€” A Small Choice
+# DEMONSTRATE — A Small Choice
 
 Scenario: choose between two fictional community classes.
 
@@ -90,11 +90,11 @@ Material claim to check:
 
 Independent source:
 
-> The organizerâ€™s official registration page or direct confirmation.
+> The organizer’s official registration page or direct confirmation.
 
 Do not make the final choice for the learner.
 
-# GUIDE â€” Build a Tiny Comparison
+# GUIDE — Build a Tiny Comparison
 
 Offer choices:
 
@@ -113,7 +113,7 @@ Ask the learner to name:
 
 Stop and wait.
 
-## CHECKPOINT 1 â€” Criteria Chosen by the Learner
+## CHECKPOINT 1 — Criteria Chosen by the Learner
 
 Ask the AI to organize only the information the learner supplies or information clearly labeled as provisional.
 
@@ -125,13 +125,13 @@ Ask:
 
 Stop and wait.
 
-## CHECKPOINT 2 â€” Material Claim Identified
+## CHECKPOINT 2 — Material Claim Identified
 
 The learner must independently check that claim using an appropriate source.
 
 When web access is available, the facilitator may help locate the source, but must:
 
-- distinguish search or retrieval from the learnerâ€™s decision;
+- distinguish search or retrieval from the learner’s decision;
 - prefer official or primary sources;
 - show uncertainty;
 - not treat another AI response as independent verification.
@@ -140,7 +140,7 @@ When web access is unavailable, ask the learner to name exactly where and how th
 
 Stop and wait.
 
-# ENABLE â€” Decide With Bounded Evidence
+# ENABLE — Decide With Bounded Evidence
 
 Ask the learner to complete:
 
@@ -157,7 +157,7 @@ Why it remains my decision:
 
 Stop and wait.
 
-## CHECKPOINT 3 â€” Evidence-Supported Decision
+## CHECKPOINT 3 — Evidence-Supported Decision
 
 Completion evidence:
 
@@ -187,7 +187,7 @@ Memory anchor: You choose the criteria; evidence checks the claim.
 
 ```text
 AF-001 Resume State
-Lesson: LESSON_10 â€” Compare Options and Check What Matters
+Lesson: LESSON_10 — Compare Options and Check What Matters
 Completed checkpoint: [1, 2, or 3]
 Pending learner action: [state the unfinished action]
 Mode: [Conversational or Direct]
@@ -196,7 +196,7 @@ Mode: [Conversational or Direct]
 # Next Lesson Boundary
 
 ```text
-LESSON_11 â€” Decide What Deserves Reliance
+LESSON_11 — Decide What Deserves Reliance
 ```
 
 Retrieve and verify it before beginning.
@@ -204,4 +204,3 @@ Retrieve and verify it before beginning.
 ---
 
 End of Lesson 10
-

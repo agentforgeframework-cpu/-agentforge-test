@@ -1,4 +1,4 @@
-﻿# Lesson 05 â€” Protect Information Before You Share
+# Lesson 05 — Protect Information Before You Share
 
 **Kit Type:** Training Kit  
 **Status:** Active Development  
@@ -37,7 +37,7 @@ Do not perform the lesson capability for the learner.
 # Facilitator Control
 
 **Primary capability:** Control what information enters the AI system.  
-**Estimated time:** Approximately 12â€“15 minutes.  
+**Estimated time:** Approximately 12–15 minutes.  
 **Learner artifact:** A privacy-safe version of a realistic request with an explanation of the changes.  
 **Memory anchor:** **Protect first. Prompt second.**  
 **Intentionally out of scope:** Legal advice, organization-specific policy interpretation, comprehensive data classification, and security engineering.
@@ -48,9 +48,9 @@ The learner must make the disclosure decisions.
 
 Say:
 
-> Privacy decisions happen before information enters the AI system. Today you will edit a request so the AI receives what it needsâ€”and not what it does not.
+> Privacy decisions happen before information enters the AI system. Today you will edit a request so the AI receives what it needs—and not what it does not.
 
-# EXPLAIN â€” Six Choices Before Sharing
+# EXPLAIN — Six Choices Before Sharing
 
 For each detail, the learner may:
 
@@ -63,7 +63,7 @@ For each detail, the learner may:
 
 The safest useful request is not always the most detailed request.
 
-# DEMONSTRATE â€” Keep the Need, Remove the Identity
+# DEMONSTRATE — Keep the Need, Remove the Identity
 
 Original idea:
 
@@ -87,12 +87,12 @@ Say:
 
 > The task remained possible after the sensitive details were removed.
 
-# GUIDE â€” Edit Before Entry
+# GUIDE — Edit Before Entry
 
 Present this unsent request:
 
 ```text
-Summarize my employee Jordan Leeâ€™s performance problems using these dates, customer names, disciplinary notes, home address, and medical leave information.
+Summarize my employee Jordan Lee’s performance problems using these dates, customer names, disciplinary notes, home address, and medical leave information.
 ```
 
 Ask the learner to classify each type of information:
@@ -108,7 +108,7 @@ Stop and wait.
 
 Do not perform the screening first.
 
-## CHECKPOINT 1 â€” Disclosure Decisions Made
+## CHECKPOINT 1 — Disclosure Decisions Made
 
 Ask:
 
@@ -116,9 +116,9 @@ Ask:
 
 Stop and wait.
 
-A suitable result might use a fictional employee, generic performance categories, no customer identities, no home address, and no medical information. The learnerâ€™s wording controls.
+A suitable result might use a fictional employee, generic performance categories, no customer identities, no home address, and no medical information. The learner’s wording controls.
 
-# GUIDE â€” Permission Matters Too
+# GUIDE — Permission Matters Too
 
 Say:
 
@@ -133,7 +133,7 @@ Ask the learner:
 
 Stop and wait.
 
-## CHECKPOINT 2 â€” Safe Alternative Chosen
+## CHECKPOINT 2 — Safe Alternative Chosen
 
 Present three tasks and ask which can proceed:
 
@@ -143,7 +143,7 @@ Present three tasks and ask which can proceed:
 
 The learner should explain each choice.
 
-# ENABLE â€” Protect a Request Independently
+# ENABLE — Protect a Request Independently
 
 Offer one safe exercise:
 
@@ -159,7 +159,7 @@ Say:
 
 Stop and wait.
 
-## CHECKPOINT 3 â€” Privacy Gate Applied
+## CHECKPOINT 3 — Privacy Gate Applied
 
 Completion evidence:
 
@@ -188,7 +188,7 @@ Memory anchor: Protect first. Prompt second.
 
 ```text
 AF-001 Resume State
-Lesson: LESSON_05 â€” Protect Information Before You Share
+Lesson: LESSON_05 — Protect Information Before You Share
 Completed checkpoint: [1, 2, or 3]
 Pending learner action: [state the unfinished action]
 Mode: [Conversational or Direct]
@@ -197,7 +197,7 @@ Mode: [Conversational or Direct]
 # Next Lesson Boundary
 
 ```text
-LESSON_06 â€” Choose the Right Part of the Task for AI
+LESSON_06 — Choose the Right Part of the Task for AI
 ```
 
 Retrieve and verify it before beginning.
@@ -205,4 +205,3 @@ Retrieve and verify it before beginning.
 ---
 
 End of Lesson 05
-

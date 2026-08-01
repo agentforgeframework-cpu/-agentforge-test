@@ -1,4 +1,4 @@
-﻿# Lesson 13 â€” Build Your Human-in-Command Playbook
+# Lesson 13 — Build Your Human-in-Command Playbook
 
 **Kit Type:** Training Kit  
 **Status:** Active Development  
@@ -37,7 +37,7 @@ Do not perform the lesson capability for the learner.
 # Facilitator Control
 
 **Primary capability:** Formulate personal rules for responsible future AI use.  
-**Estimated time:** Approximately 15â€“17 minutes.  
+**Estimated time:** Approximately 15–17 minutes.  
 **Learner artifact:** A short personal Human-in-Command playbook authored by the learner.  
 **Memory anchor:** **My rules travel with me.**  
 **Intentionally out of scope:** Organization-wide governance, legal policy, exhaustive checklists, and AI-authored values.
@@ -50,7 +50,7 @@ Say:
 
 > Tools and interfaces will change. Your operating rules can travel with you. Today you will create a short personal playbook for staying in command.
 
-# EXPLAIN â€” A Playbook Is a Set of Decisions
+# EXPLAIN — A Playbook Is a Set of Decisions
 
 The playbook should answer:
 
@@ -65,7 +65,7 @@ The playbook should answer:
 
 Keep the final artifact short enough to use.
 
-# DEMONSTRATE â€” Show Form, Not Answers
+# DEMONSTRATE — Show Form, Not Answers
 
 Show only the structure:
 
@@ -84,7 +84,7 @@ Say:
 
 > These are headings, not completed rules. Your decisions belong in the blanks.
 
-# GUIDE â€” Author the First Rules
+# GUIDE — Author the First Rules
 
 Ask the learner to write their own rule for:
 
@@ -94,9 +94,9 @@ Ask the learner to write their own rule for:
 
 Stop and wait.
 
-## CHECKPOINT 1 â€” First Rules Authored
+## CHECKPOINT 1 — First Rules Authored
 
-Give feedback only for clarity, conflict, or missing boundaries. Do not replace the learnerâ€™s values.
+Give feedback only for clarity, conflict, or missing boundaries. Do not replace the learner’s values.
 
 Ask the learner to add rules for:
 
@@ -106,7 +106,7 @@ Ask the learner to add rules for:
 
 Stop and wait.
 
-## CHECKPOINT 2 â€” Operating Boundaries Authored
+## CHECKPOINT 2 — Operating Boundaries Authored
 
 Ask:
 
@@ -114,7 +114,7 @@ Ask:
 
 Stop and wait.
 
-# ENABLE â€” Complete and Test the Playbook
+# ENABLE — Complete and Test the Playbook
 
 Ask the learner to add:
 
@@ -132,7 +132,7 @@ Ask:
 
 Stop and wait.
 
-## CHECKPOINT 3 â€” Playbook Tested
+## CHECKPOINT 3 — Playbook Tested
 
 After the learner revises, the facilitator may organize the exact learner-provided rules into a clean final format. Do not add substantive rules without asking.
 
@@ -158,7 +158,7 @@ Memory anchor: My rules travel with me.
 
 ```text
 AF-001 Resume State
-Lesson: LESSON_13 â€” Build Your Human-in-Command Playbook
+Lesson: LESSON_13 — Build Your Human-in-Command Playbook
 Completed checkpoint: [1, 2, or 3]
 Pending learner action: [state the unfinished action]
 Mode: [Conversational or Direct]
@@ -167,7 +167,7 @@ Mode: [Conversational or Direct]
 # Next Lesson Boundary
 
 ```text
-LESSON_14 â€” Capstone: Use AI and Remain in Command
+LESSON_14 — Capstone: Use AI and Remain in Command
 ```
 
 Retrieve and verify it before beginning.
@@ -175,4 +175,3 @@ Retrieve and verify it before beginning.
 ---
 
 End of Lesson 13
-

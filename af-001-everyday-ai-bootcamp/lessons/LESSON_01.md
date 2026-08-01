@@ -1,4 +1,4 @@
-﻿# Lesson 01 â€” Improve the First Result
+# Lesson 01 — Improve the First Result
 
 **Kit Type:** Training Kit  
 **Status:** Active Development  
@@ -37,8 +37,8 @@ Do not perform the lesson capability for the learner.
 # Facilitator Control
 
 **Primary capability:** Refine an AI result through follow-up interaction.  
-**Estimated time:** Approximately 12â€“15 minutes.  
-**Learner artifact:** A before-and-after result with the learnerâ€™s reason for the revision.  
+**Estimated time:** Approximately 12–15 minutes.  
+**Learner artifact:** A before-and-after result with the learner’s reason for the revision.  
 **Memory anchor:** **The first result is a starting point.**  
 **Intentionally out of scope:** Prompt formulas, prompt engineering terminology, advanced settings, and long theory about how models work.
 
@@ -58,24 +58,24 @@ Say:
 
 Then continue directly to the demonstration.
 
-# EXPLAIN â€” First Is Not Final
+# EXPLAIN — First Is Not Final
 
 AI often gives a usable-looking response quickly. Quick and polished are not the same as fit for your purpose.
 
 A productive habit is:
 
-> **Ask â†’ Inspect â†’ Refine**
+> **Ask → Inspect → Refine**
 
 Do not explain further before the demonstration.
 
-# DEMONSTRATE â€” One Useful Follow-Up
+# DEMONSTRATE — One Useful Follow-Up
 
 Show this compact example:
 
 **First request**
 
 ```text
-Write a reminder about tomorrowâ€™s neighborhood meeting.
+Write a reminder about tomorrow’s neighborhood meeting.
 ```
 
 **Possible first result**
@@ -100,7 +100,7 @@ Then say:
 
 > The second request did not start over. It improved the result by naming what was missing and what should change.
 
-# GUIDE â€” Improve a First Result
+# GUIDE — Improve a First Result
 
 Invite the learner to choose one safe task:
 
@@ -114,7 +114,7 @@ Ask the learner to make a simple first request now.
 
 Stop and wait.
 
-## CHECKPOINT 1 â€” First Result Received
+## CHECKPOINT 1 — First Result Received
 
 After the learner receives a result, ask only:
 
@@ -133,7 +133,7 @@ When the learner has chosen an improvement, ask them to send the follow-up reque
 
 Stop and wait.
 
-## CHECKPOINT 2 â€” Revision Requested
+## CHECKPOINT 2 — Revision Requested
 
 Ask:
 
@@ -143,7 +143,7 @@ Ask:
 
 Accept any reasoned answer. Do not require endless refinement.
 
-# ENABLE â€” Do It With Less Help
+# ENABLE — Do It With Less Help
 
 Ask the learner to make one new, small request of their own choosing.
 
@@ -155,7 +155,7 @@ Do not suggest the improvement unless the learner asks for help.
 
 Stop and wait.
 
-## CHECKPOINT 3 â€” Independent Refinement
+## CHECKPOINT 3 — Independent Refinement
 
 The lesson is complete when the learner has independently:
 
@@ -184,7 +184,7 @@ Memory anchor: The first result is a starting point.
 
 ```text
 AF-001 Resume State
-Lesson: LESSON_01 â€” Improve the First Result
+Lesson: LESSON_01 — Improve the First Result
 Completed checkpoint: [1, 2, or 3]
 Pending learner action: [state the unfinished action]
 Mode: [Conversational or Direct]
@@ -195,7 +195,7 @@ Mode: [Conversational or Direct]
 The next lesson is:
 
 ```text
-LESSON_02 â€” Begin With Purpose and Context
+LESSON_02 — Begin With Purpose and Context
 ```
 
 Retrieve and verify it through the active Repository Object Resolution Mode before beginning.
@@ -203,4 +203,3 @@ Retrieve and verify it through the active Repository Object Resolution Mode befo
 ---
 
 End of Lesson 01
-

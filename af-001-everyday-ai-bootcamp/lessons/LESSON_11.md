@@ -1,4 +1,4 @@
-﻿# Lesson 11 â€” Decide What Deserves Reliance
+# Lesson 11 — Decide What Deserves Reliance
 
 **Kit Type:** Training Kit  
 **Status:** Active Development  
@@ -37,7 +37,7 @@ Do not perform the lesson capability for the learner.
 # Facilitator Control
 
 **Primary capability:** Calibrate reliance according to context and consequence.  
-**Estimated time:** Approximately 12â€“15 minutes.  
+**Estimated time:** Approximately 12–15 minutes.  
 **Learner artifact:** A reliance decision with a reason and next action.  
 **Memory anchor:** **Reliance is a dial, not a switch.**  
 **Intentionally out of scope:** Repeating a full verification lesson, abstract risk theory, legal or clinical decision-making, and blanket trust or distrust.
@@ -57,7 +57,7 @@ Say:
 
 > AI output is not simply trusted or distrusted. You may rely on it differently depending on consequence, evidence, uncertainty, and your ability to judge it.
 
-# EXPLAIN â€” Match Reliance to the Situation
+# EXPLAIN — Match Reliance to the Situation
 
 Ask:
 
@@ -68,7 +68,7 @@ Ask:
 - Is qualified authority required?
 - What responsibility remains mine?
 
-# DEMONSTRATE â€” Same Tool, Different Reliance
+# DEMONSTRATE — Same Tool, Different Reliance
 
 1. AI suggests three fictional character names.  
    Use if they fit.
@@ -89,7 +89,7 @@ Say:
 
 > The output may be fluent in every case. The reliance decision changes because the use and consequence change.
 
-# GUIDE â€” Choose the Reliance Level
+# GUIDE — Choose the Reliance Level
 
 Present:
 
@@ -102,11 +102,11 @@ Ask the learner to choose a reliance action for each and explain why.
 
 Stop and wait.
 
-## CHECKPOINT 1 â€” Reliance Calibrated
+## CHECKPOINT 1 — Reliance Calibrated
 
 Do not require the same answer in every context. Require a defensible reason tied to consequence, evidence, and ability to judge.
 
-# GUIDE â€” Separate â€œGood Outputâ€ From â€œSafe to Useâ€
+# GUIDE — Separate “Good Output” From “Safe to Use”
 
 Say:
 
@@ -118,9 +118,9 @@ Ask the learner:
 
 Stop and wait.
 
-## CHECKPOINT 2 â€” Fluency Separated From Reliability
+## CHECKPOINT 2 — Fluency Separated From Reliability
 
-# ENABLE â€” Make a Reliance Decision
+# ENABLE — Make a Reliance Decision
 
 Present:
 
@@ -132,7 +132,7 @@ Say:
 
 Stop and wait.
 
-## CHECKPOINT 3 â€” Independent Reliance Judgment
+## CHECKPOINT 3 — Independent Reliance Judgment
 
 Completion evidence:
 
@@ -146,7 +146,7 @@ Completion evidence:
 
 Say:
 
-> Do not ask only, â€œIs AI trustworthy?â€ Ask, â€œHow much reliance does this result deserve for this use?â€
+> Do not ask only, “Is AI trustworthy?” Ask, “How much reliance does this result deserve for this use?”
 
 Display:
 
@@ -162,7 +162,7 @@ Memory anchor: Reliance is a dial, not a switch.
 
 ```text
 AF-001 Resume State
-Lesson: LESSON_11 â€” Decide What Deserves Reliance
+Lesson: LESSON_11 — Decide What Deserves Reliance
 Completed checkpoint: [1, 2, or 3]
 Pending learner action: [state the unfinished action]
 Mode: [Conversational or Direct]
@@ -171,7 +171,7 @@ Mode: [Conversational or Direct]
 # Next Lesson Boundary
 
 ```text
-LESSON_12 â€” Apply the Full Cycle to a Real-Life Task
+LESSON_12 — Apply the Full Cycle to a Real-Life Task
 ```
 
 Retrieve and verify it before beginning.
@@ -179,4 +179,3 @@ Retrieve and verify it before beginning.
 ---
 
 End of Lesson 11
-

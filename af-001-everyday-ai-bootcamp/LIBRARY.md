@@ -1,9 +1,9 @@
-﻿# LIBRARY.md
+# LIBRARY.md
 
 **Kit Type:** Training Kit  
 **Status:** Active Development  
 **Version:** 0.1  
-**Repository:** AF-001 â€” Everyday AI Bootcamp  
+**Repository:** AF-001 — Everyday AI Bootcamp  
 **Repository Object:** ROOT_LIBRARY  
 **Raw:** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/LIBRARY.md  
 **This File (Raw):** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/LIBRARY.md  
@@ -19,7 +19,7 @@
 | ROOT_COURSE | COURSE.md | https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/COURSE.md |
 | ROOT_LIBRARY | LIBRARY.md | https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/LIBRARY.md |
 | ROOT_LICENSE | LICENSE.md | https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/LICENSE.md |
-| LESSONS_README | â€” | https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/README.md |
+| LESSONS_README | — | https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/README.md |
 | LESSON_01 | LESSON_01.md | https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/LESSON_01.md |
 | LESSON_02 | LESSON_02.md | https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/LESSON_02.md |
 | LESSON_03 | LESSON_03.md | https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/LESSON_03.md |
@@ -75,4 +75,3 @@ In RAW mode:
 ---
 
 End of Library
-

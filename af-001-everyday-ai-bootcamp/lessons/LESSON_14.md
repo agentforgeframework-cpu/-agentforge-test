@@ -1,4 +1,4 @@
-﻿# Lesson 14 â€” Capstone: Use AI and Remain in Command
+# Lesson 14 — Capstone: Use AI and Remain in Command
 
 **Kit Type:** Training Kit  
 **Status:** Active Development  
@@ -37,7 +37,7 @@ Do not perform the lesson capability for the learner.
 # Facilitator Control
 
 **Primary capability:** Independently demonstrate the complete AF-001 capability set.  
-**Estimated time:** Approximately 20â€“30 minutes.  
+**Estimated time:** Approximately 20–30 minutes.  
 **Learner artifact:** A completed task plus a Human-in-Command evidence record.  
 **Memory anchor:** **AI assists. I inspect, verify, decide, and remain responsible.**  
 **Intentionally out of scope:** High-stakes decisions, confidential tasks, large projects, scoring, credentials, and facilitator rescue.
@@ -78,9 +78,9 @@ Offer possible task types:
 
 The task must:
 
-- be reasonably completable in 20â€“30 minutes;
+- be reasonably completable in 20–30 minutes;
 - avoid private, confidential, regulated, or proprietary information;
-- remain within the learnerâ€™s ability to judge;
+- remain within the learner’s ability to judge;
 - not require AI to make a medical, legal, financial, safety-critical, employment, or other high-stakes decision;
 - have a clear final use or stopping point.
 
@@ -88,11 +88,11 @@ Ask the learner to propose the task.
 
 Stop and wait.
 
-## GATE CHECKPOINT â€” Task Approved for the Exercise
+## GATE CHECKPOINT — Task Approved for the Exercise
 
 The facilitator may identify a safety or scope problem and ask the learner to narrow or replace the task. The facilitator must not choose the final task unless the learner asks for bounded options.
 
-# PHASE 1 â€” Choose and Protect
+# PHASE 1 — Choose and Protect
 
 Ask the learner to record:
 
@@ -108,7 +108,7 @@ Stop and wait.
 
 Do not fill missing answers.
 
-# PHASE 2 â€” Ask
+# PHASE 2 — Ask
 
 The learner creates the request with relevant purpose, audience, facts, constraints, and desired form.
 
@@ -118,7 +118,7 @@ The learner sends the request.
 
 Stop and wait.
 
-# PHASE 3 â€” Inspect
+# PHASE 3 — Inspect
 
 Ask:
 
@@ -132,7 +132,7 @@ Stop and wait.
 
 The facilitator may challenge unsupported praise or criticism but should not provide the inspection before the learner.
 
-# PHASE 4 â€” Refine or Recover
+# PHASE 4 — Refine or Recover
 
 The learner chooses one:
 
@@ -147,7 +147,7 @@ Ask for the reason and the next message or stopping decision.
 
 Stop and wait.
 
-# PHASE 5 â€” Check
+# PHASE 5 — Check
 
 Ask:
 
@@ -164,7 +164,7 @@ AI output cannot verify itself.
 
 Stop and wait.
 
-# PHASE 6 â€” Decide Reliance and Final Use
+# PHASE 6 — Decide Reliance and Final Use
 
 Ask the learner to choose:
 
@@ -187,7 +187,7 @@ The learner completes:
 ```text
 Task:
 Why the task was appropriate:
-AIâ€™s bounded role:
+AI’s bounded role:
 Information protected:
 Purpose and context supplied:
 First-result strength:
@@ -201,7 +201,7 @@ Responsibility that remained mine:
 One rule from my playbook that mattered:
 ```
 
-The facilitator may format the learnerâ€™s statements but must not invent evidence.
+The facilitator may format the learner’s statements but must not invent evidence.
 
 # CAPSTONE REVIEW
 
@@ -246,10 +246,10 @@ When satisfied, display:
 
 ```text
 LESSON 14 COMPLETE
-AF-001 â€” EVERYDAY AI BOOTCAMP COMPLETE
+AF-001 — EVERYDAY AI BOOTCAMP COMPLETE
 
 You demonstrated that you can:
-Choose â†’ Ask â†’ Inspect â†’ Refine â†’ Check â†’ Decide
+Choose → Ask → Inspect → Refine → Check → Decide
 
 AI may assist.
 You retain privacy decisions, judgment, reliance decisions, final authority, and responsibility.
@@ -266,7 +266,7 @@ Then give the learner:
 
 ```text
 AF-001 Resume State
-Lesson: LESSON_14 â€” Capstone: Use AI and Remain in Command
+Lesson: LESSON_14 — Capstone: Use AI and Remain in Command
 Completed phase: [Gate, Choose and Protect, Ask, Inspect, Refine/Recover, Check, Decide, or Review]
 Pending learner action: [state the unfinished action]
 Mode: [Conversational or Direct]
@@ -277,4 +277,3 @@ On resume, retrieve and verify this lesson again before continuing.
 ---
 
 End of Lesson 14
-
