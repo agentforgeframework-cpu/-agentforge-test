@@ -1,4 +1,4 @@
-﻿# AF-001 — Everyday AI Bootcamp
+# AF-001 — Everyday AI Bootcamp
 
 **Kit Type:** Training Kit  
 **Status:** Active Development  
