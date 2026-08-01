@@ -2,7 +2,7 @@
 
 **Kit Type:** Training Kit  
 **Status:** Active Development  
-**Version:** 0.1  
+**Version:** 0.3  
 **Course ID:** AF-001  
 **Repository Object:** ROOT_COURSE  
 **Raw:** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/COURSE.md  
@@ -41,7 +41,7 @@ SETUP.md
 → deliver the lesson according to COURSE.md
 ```
 
-Do not replace a lesson with a summary of `COURSE.md`, `README.md`, prior conversation state, or remembered content.
+Do not replace a lesson with a summary of `COURSE.md`, `README.md`, prior conversation state, remembered content, or generalized knowledge about AI training.
 
 ---
 
@@ -78,6 +78,7 @@ AF-001 is not:
 - an advanced machine-learning course;
 - a vendor certification;
 - a substitute for professional judgment;
+- a prompt-formula course;
 - a curriculum that teaches learners to surrender decisions to AI;
 - a guarantee that AI output is accurate, complete, unbiased, current, or safe to use without review.
 
@@ -159,6 +160,10 @@ AF-001 uses Scouting's EDGE instructional approach:
 EDGE is a governing instructional pattern, not a requirement that every lesson use four mechanically labeled sections.
 
 A lesson may vary its structure, but the learner should not be expected to perform independently before the concept has been explained and demonstrated, and guided practice should not replace eventual learner action.
+
+A lesson fails when the learner must endure too much instruction before getting to perform the capability being taught.
+
+This principle remains an observed AF-001 design finding and should guide lesson delivery without turning the course into a rushed or under-explained experience.
 
 ---
 
@@ -251,6 +256,8 @@ The facilitator must not:
 
 If retrieval or local resolution fails, follow the failure behavior defined in `SETUP.md` and stop.
 
+Repository access is not repository obedience. Successful resolution does not by itself prove that the active lesson governs subsequent instruction.
+
 ---
 
 # Lesson Delivery Rules
@@ -275,7 +282,36 @@ The facilitator must not:
 - answer reflection questions on the learner's behalf;
 - treat silence or delay as permission to continue;
 - conceal operational failure;
-- improvise a replacement lesson when the authoritative file is unavailable.
+- improvise a replacement lesson when the authoritative file is unavailable;
+- replace the current lesson with a familiar or generic version of the topic.
+
+---
+
+# Verification and Observable State
+
+AF-001 uses visible state and evidence at meaningful transitions.
+
+Verification controls are intended to make important behavior observable. They are not independent proof that the facilitator complied.
+
+At minimum, verification should occur when:
+
+- course authority is established;
+- a lesson becomes active;
+- a learner checkpoint changes state;
+- a paused course resumes;
+- lesson completion is claimed.
+
+A verification receipt should be compared with the instructional behavior that follows. A correct receipt followed by unauthorized instruction is still a failure.
+
+The provisional operating pattern is:
+
+```text
+Required behavior
+→ observable evidence
+→ proceed
+```
+
+The exact frequency and form of verification remain under active validation.
 
 ---
 
@@ -418,78 +454,83 @@ The current AF-001 course design uses fourteen sequential lessons.
 
 “Day” is a learner-friendly sequence label. It does not require one lesson per calendar day. Learners may proceed at their own pace.
 
-Some lessons may remain planned while AF-001 is under active development. A planned lesson is not available for delivery until its Repository Object appears in `LIBRARY.md` and its lesson file can be verified.
+All fourteen lessons are present in the current Active Development deployment. `LIBRARY.md` remains authoritative for availability and routing.
 
-## Day 1 — Core Prompting Fundamentals
+## Day 1 — Improve the First Result
 
-Build first-use confidence and learn a practical structure for giving an AI clear context, purpose, constraints, and output expectations.
+Refine an AI result through follow-up interaction. Learn that the first result is a starting point, not a final answer.
 
-## Day 2 — AI Safety and Verification
+## Day 2 — Begin With Purpose and Context
 
-Learn why AI output must be checked and practice source awareness, fact-checking, uncertainty recognition, and verification discipline.
+Identify the useful purpose and relevant context for a request without adding unnecessary or sensitive information.
 
-## Day 3 — Decision Frameworks
+## Day 3 — Inspect What You Received
 
-Use AI to organize choices, compare options, surface assumptions, and reduce decision stress without transferring decision authority to the AI.
+Examine AI output before revising or using it. Identify one meaningful weakness, omission, or mismatch.
 
-## Day 4 — AI Tools Beyond Chatbots
+## Day 4 — Recover When the Conversation Goes Wrong
 
-Understand major categories of AI tools and distinguish among search, retrieval, generation, analysis, media creation, and other AI-assisted functions.
+Recognize when to redirect, restart, or stop an unproductive AI conversation while retaining control of the task.
 
-## Day 5 — Thinking With AI Without Losing Control
+## Day 5 — Protect Information Before You Share
 
-Practice a refinement loop built around generating, comparing, refining, and owning the final result.
+Apply a privacy gate before entering information into an AI system. Keep the legitimate need while removing unnecessary disclosure.
 
-## Day 6 — Spotting Bias, Gaps, and Weak Thinking
+## Day 6 — Choose the Right Part of the Task for AI
 
-Inspect assumptions, missing perspectives, incomplete reasoning, unsupported confidence, and other weaknesses in AI-assisted work.
+Divide a task into parts and decide which portions AI may assist with, which require human review, and which should remain human.
 
-## Day 7 — Turning AI Output Into Clear Communication
+## Day 7 — Apply the Cycle to Communication
 
-Transform generic AI output into clear, useful communication for a specific purpose, audience, and setting.
+Use a complete small cycle of choosing, asking, inspecting, refining, and deciding to create fit-for-purpose communication.
 
-## Day 8 — Workflow Thinking
+## Day 8 — Create and Refine an AI-Generated Image
 
-Break work into understandable steps and identify where AI can assist, where human review is required, and where AI should not be used.
+Apply purpose, inspection, refinement, and judgment to visual generation while distinguishing generated content from evidence of reality.
 
-## Day 9 — Creative and Media AI
+## Day 9 — Know What Needs Checking
 
-Explore image, audio, video, and other generative media while distinguishing generated content from retrieved or documented reality.
+Recognize when AI output requires little checking, targeted verification, stronger professional review, or refusal to proceed.
 
-## Day 10 — Research Discipline
+## Day 10 — Compare Options and Check What Matters
 
-Combine AI, search, sources, comparison, and verification to build stronger research practices and avoid unsupported synthesis.
+Choose relevant comparison criteria, identify material claims, verify what matters, and retain final decision authority.
 
-## Day 11 — Workplace Use Cases
+## Day 11 — Decide What Deserves Reliance
 
-Apply responsible AI practices to common workplace tasks while respecting authorization, confidentiality, quality, and accountability.
+Calibrate reliance to the stakes, evidence, and intended use rather than treating fluent output as proof of reliability.
 
-## Day 12 — Personal Workflow Integration
+## Day 12 — Apply the Full Cycle to a Real-Life Task
 
-Build sustainable AI-assisted routines that reduce friction without creating unnecessary dependence or complexity.
+Transfer the full Human-in-Command cycle to a small, personally relevant task:
 
-## Day 13 — Building Your AI Playbook
+```text
+Choose → Ask → Inspect → Refine → Check → Decide
+```
 
-Create personal rules, preferred practices, verification habits, boundaries, and reusable approaches for future AI use.
+## Day 13 — Build Your Human-in-Command Playbook
 
-## Day 14 — Capstone Application
+Create personal rules, boundaries, preferred practices, and verification habits for future AI use.
 
-Apply the course's core practices to a practical scenario and demonstrate safe, effective, thoughtful, Human-in-Command use of AI.
+## Day 14 — Capstone: Use AI and Remain in Command
+
+Independently complete a bounded task while demonstrating privacy control, task selection, inspection, refinement, verification, reliance judgment, and final responsibility.
 
 ---
 
-# Available and Planned Lessons
+# Available Lessons
 
 `LIBRARY.md` is authoritative for lesson availability.
 
 At the current development stage:
 
-- `LESSON_01` is the first expected instructional object;
-- later lessons are part of the approved course design but may remain under development;
-- the facilitator must not invent an unavailable lesson;
-- when the next lesson is not listed or cannot be verified, state that it is not yet available and stop at the current completion boundary.
+- `LESSON_01` through `LESSON_14` are expected instructional objects;
+- every lesson must still be retrieved and verified before activation;
+- the facilitator must not infer availability from the course sequence alone;
+- if a listed lesson cannot be resolved or verified, stop at the current completion boundary;
+- the facilitator must not invent a replacement lesson.
 
-The course outline may be refined as lesson development and validation continue. Changes to planned lesson titles or scope must preserve the core course objective and Human-in-Command principles.
+All lessons remain Active Development until validation and Human-in-Command authorization establish otherwise.
 
 ---
 
@@ -497,17 +538,18 @@ The course outline may be refined as lesson development and validation continue.
 
 AF-001 course completion requires:
 
-- completion of all required published lessons;
-- completion of the capstone or final application defined by the published course version;
+- completion of all fourteen published lessons;
+- completion of the capstone;
 - demonstrated use of verification and human judgment;
+- demonstrated use of bounded delegation and privacy control;
 - acknowledgment that the learner retains responsibility for AI-assisted work;
-- a final learner recap or personal AI playbook, as defined by the final lessons.
+- completion of the learner's Human-in-Command playbook or equivalent final artifact.
 
 AF-001 is not a certification program unless a future version explicitly establishes and authorizes a separate assessment standard.
 
 The facilitator may recognize completion of the course but may not invent credentials, certification, scores, badges, or endorsements.
 
-While AF-001 has Active Development status and any required lesson in the defined course sequence remains unavailable, the facilitator must not declare the course complete.
+Active Development status does not prevent a bounded validation run from reaching the end of the course. It does prevent production claims or unauthorized certification.
 
 ---
 
@@ -527,20 +569,21 @@ Do not weaken course integrity for speed, convenience, fluency, or the appearanc
 
 ---
 
-# Development Note
+# Development and Validation Note
 
-AF-001 remains under active development. This `COURSE.md` establishes the initial course-driving architecture needed to develop, test, and deliver lessons consistently.
+AF-001 remains under active development.
 
-The course outline, completion details, and lesson-specific requirements may be revised as the remaining lessons are authored and validated.
+The fourteen-lesson curriculum is established for the current validation cycle. Changes should be driven by demonstrated learner or execution defects rather than speculative redesign.
 
-Operational changes should be made deliberately and reviewed for their effect on:
+Current validation is divided into separate concerns:
 
-- learner clarity;
-- instructional consistency;
-- retrieval reliability;
-- pause-and-resume survivability;
-- Human-in-Command authority;
-- cross-platform usability.
+1. **Repository availability** — whether the execution environment can access the required files.
+2. **Repository obedience** — whether the facilitator actually teaches from and remains aligned with the authoritative files.
+3. **Curriculum effectiveness** — whether real learners acquire the intended capabilities.
+
+A result in one area must not be treated as proof of another.
+
+Production authorization has not been granted.
 
 ---
 
