@@ -1,18 +1,18 @@
-# AF-001 — Everyday AI Bootcamp
+﻿# AF-001 â€” Everyday AI Bootcamp
 
 **Kit Type:** Training Kit  
 **Status:** Active Development  
 **Version:** 0.1  
 **Course ID:** AF-001  
 **Repository Object:** ROOT_COURSE  
-**Raw:** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-dev/refs/heads/main/af-001-everyday-ai-bootcamp/COURSE.md  
-**This File (Raw):** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-dev/refs/heads/main/af-001-everyday-ai-bootcamp/COURSE.md  
+**Raw:** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/COURSE.md  
+**This File (Raw):** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/COURSE.md  
 
 ---
 
 # Course Authority
 
-`COURSE.md` is the authoritative course-level operating document for AF-001 — Everyday AI Bootcamp.
+`COURSE.md` is the authoritative course-level operating document for AF-001 â€” Everyday AI Bootcamp.
 
 It defines:
 
@@ -35,10 +35,10 @@ The operating relationship is:
 
 ```text
 SETUP.md
-→ establish and verify course operation
-→ load COURSE.md
-→ retrieve the required lesson through LIBRARY.md
-→ deliver the lesson according to COURSE.md
+â†’ establish and verify course operation
+â†’ load COURSE.md
+â†’ retrieve the required lesson through LIBRARY.md
+â†’ deliver the lesson according to COURSE.md
 ```
 
 Do not replace a lesson with a summary of `COURSE.md`, `README.md`, prior conversation state, or remembered content.
@@ -47,7 +47,7 @@ Do not replace a lesson with a summary of `COURSE.md`, `README.md`, prior conver
 
 # Purpose
 
-AF-001 — Everyday AI Bootcamp is a practical, beginner-focused course designed to help ordinary people use modern AI tools safely, effectively, and thoughtfully in personal and professional settings.
+AF-001 â€” Everyday AI Bootcamp is a practical, beginner-focused course designed to help ordinary people use modern AI tools safely, effectively, and thoughtfully in personal and professional settings.
 
 The course emphasizes:
 
@@ -151,10 +151,10 @@ The facilitator must not present AI confidence, fluency, or speed as proof of co
 
 AF-001 uses Scouting's EDGE instructional approach:
 
-- **Explain** — establish the concept, purpose, and boundaries.
-- **Demonstrate** — show a clear example or modeled use.
-- **Guide** — support the learner while the learner practices.
-- **Enable** — allow the learner to perform, adapt, or apply the skill with increasing independence.
+- **Explain** â€” establish the concept, purpose, and boundaries.
+- **Demonstrate** â€” show a clear example or modeled use.
+- **Guide** â€” support the learner while the learner practices.
+- **Enable** â€” allow the learner to perform, adapt, or apply the skill with increasing independence.
 
 EDGE is a governing instructional pattern, not a requirement that every lesson use four mechanically labeled sections.
 
@@ -416,63 +416,63 @@ Do not claim course completion until all required available lessons and the fina
 
 The current AF-001 course design uses fourteen sequential lessons.
 
-“Day” is a learner-friendly sequence label. It does not require one lesson per calendar day. Learners may proceed at their own pace.
+â€œDayâ€ is a learner-friendly sequence label. It does not require one lesson per calendar day. Learners may proceed at their own pace.
 
 Some lessons may remain planned while AF-001 is under active development. A planned lesson is not available for delivery until its Repository Object appears in `LIBRARY.md` and its lesson file can be verified.
 
-## Day 1 — Core Prompting Fundamentals
+## Day 1 â€” Core Prompting Fundamentals
 
 Build first-use confidence and learn a practical structure for giving an AI clear context, purpose, constraints, and output expectations.
 
-## Day 2 — AI Safety and Verification
+## Day 2 â€” AI Safety and Verification
 
 Learn why AI output must be checked and practice source awareness, fact-checking, uncertainty recognition, and verification discipline.
 
-## Day 3 — Decision Frameworks
+## Day 3 â€” Decision Frameworks
 
 Use AI to organize choices, compare options, surface assumptions, and reduce decision stress without transferring decision authority to the AI.
 
-## Day 4 — AI Tools Beyond Chatbots
+## Day 4 â€” AI Tools Beyond Chatbots
 
 Understand major categories of AI tools and distinguish among search, retrieval, generation, analysis, media creation, and other AI-assisted functions.
 
-## Day 5 — Thinking With AI Without Losing Control
+## Day 5 â€” Thinking With AI Without Losing Control
 
 Practice a refinement loop built around generating, comparing, refining, and owning the final result.
 
-## Day 6 — Spotting Bias, Gaps, and Weak Thinking
+## Day 6 â€” Spotting Bias, Gaps, and Weak Thinking
 
 Inspect assumptions, missing perspectives, incomplete reasoning, unsupported confidence, and other weaknesses in AI-assisted work.
 
-## Day 7 — Turning AI Output Into Clear Communication
+## Day 7 â€” Turning AI Output Into Clear Communication
 
 Transform generic AI output into clear, useful communication for a specific purpose, audience, and setting.
 
-## Day 8 — Workflow Thinking
+## Day 8 â€” Workflow Thinking
 
 Break work into understandable steps and identify where AI can assist, where human review is required, and where AI should not be used.
 
-## Day 9 — Creative and Media AI
+## Day 9 â€” Creative and Media AI
 
 Explore image, audio, video, and other generative media while distinguishing generated content from retrieved or documented reality.
 
-## Day 10 — Research Discipline
+## Day 10 â€” Research Discipline
 
 Combine AI, search, sources, comparison, and verification to build stronger research practices and avoid unsupported synthesis.
 
-## Day 11 — Workplace Use Cases
+## Day 11 â€” Workplace Use Cases
 
 Apply responsible AI practices to common workplace tasks while respecting authorization, confidentiality, quality, and accountability.
 
-## Day 12 — Personal Workflow Integration
+## Day 12 â€” Personal Workflow Integration
 
 Build sustainable AI-assisted routines that reduce friction without creating unnecessary dependence or complexity.
 
-## Day 13 — Building Your AI Playbook
+## Day 13 â€” Building Your AI Playbook
 
 Create personal rules, preferred practices, verification habits, boundaries, and reusable approaches for future AI use.
 
-## Day 14 — Capstone Application
+## Day 14 â€” Capstone Application
 
 Apply the course's core practices to a practical scenario and demonstrate safe, effective, thoughtful, Human-in-Command use of AI.
 
@@ -545,3 +545,4 @@ Operational changes should be made deliberately and reviewed for their effect on
 ---
 
 End of Course Definition
+

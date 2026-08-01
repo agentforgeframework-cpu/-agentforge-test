@@ -1,4 +1,4 @@
-# Lesson 04 — Recover When the Conversation Goes Wrong
+﻿# Lesson 04 â€” Recover When the Conversation Goes Wrong
 
 **Kit Type:** Training Kit  
 **Status:** Active Development  
@@ -6,8 +6,8 @@
 **Course ID:** AF-001  
 **Repository Object:** LESSON_04  
 **Repository Path:** af-001-everyday-ai-bootcamp/lessons/LESSON_04.md  
-**Raw:** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-dev/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/LESSON_04.md  
-**This File (Raw):** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-dev/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/LESSON_04.md  
+**Raw:** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/LESSON_04.md  
+**This File (Raw):** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/LESSON_04.md  
 
 ---
 
@@ -37,9 +37,9 @@ Do not perform the lesson capability for the learner.
 # Facilitator Control
 
 **Primary capability:** Recover deliberately from an unproductive AI interaction.  
-**Estimated time:** Approximately 12–15 minutes.  
+**Estimated time:** Approximately 12â€“15 minutes.  
 **Learner artifact:** A recovery action and a one-sentence reason for choosing it.  
-**Memory anchor:** **Redirect, restart, or stop—you control the conversation.**  
+**Memory anchor:** **Redirect, restart, or stopâ€”you control the conversation.**  
 **Intentionally out of scope:** Technical troubleshooting, model diagnostics, long failure taxonomies, and blaming the learner.
 
 Suitable recovery actions:
@@ -57,9 +57,9 @@ The facilitator must not silently rescue the interaction.
 
 Say:
 
-> A poor AI conversation does not mean you failed. The useful skill is knowing how to recover—or when to stop.
+> A poor AI conversation does not mean you failed. The useful skill is knowing how to recoverâ€”or when to stop.
 
-# EXPLAIN — Recovery Is a Decision
+# EXPLAIN â€” Recovery Is a Decision
 
 When a conversation goes wrong, continuing with more words is not always the answer.
 
@@ -69,7 +69,7 @@ Ask:
 2. Is the useful direction recoverable?
 3. Should I correct, restore, narrow, restart, or stop?
 
-# DEMONSTRATE — Restore a Lost Direction
+# DEMONSTRATE â€” Restore a Lost Direction
 
 Show this short conversation:
 
@@ -99,7 +99,7 @@ Then say:
 
 > Because the task and most of the direction were still usable, correction was better than starting over.
 
-# GUIDE — Choose the Recovery Move
+# GUIDE â€” Choose the Recovery Move
 
 Present this fictional exchange:
 
@@ -125,7 +125,7 @@ Stop and wait.
 
 Do not write the recovery message first.
 
-## CHECKPOINT 1 — Recovery Chosen
+## CHECKPOINT 1 â€” Recovery Chosen
 
 Accept more than one reasoned recovery. A strong answer may restore constraints and narrow the task:
 
@@ -139,7 +139,7 @@ Ask:
 
 Stop and wait.
 
-# GUIDE — Know When to Restart or Stop
+# GUIDE â€” Know When to Restart or Stop
 
 Present two cases:
 
@@ -159,7 +159,7 @@ Then ask:
 
 Stop and wait.
 
-## CHECKPOINT 2 — Boundary Recognized
+## CHECKPOINT 2 â€” Boundary Recognized
 
 Suitable stopping reasons include:
 
@@ -169,7 +169,7 @@ Suitable stopping reasons include:
 - repeated attempts are wasting time;
 - the learner cannot evaluate the result.
 
-# ENABLE — Recover Independently
+# ENABLE â€” Recover Independently
 
 Give this imperfect exchange:
 
@@ -191,7 +191,7 @@ Say only:
 
 Stop and wait.
 
-## CHECKPOINT 3 — Independent Recovery
+## CHECKPOINT 3 â€” Independent Recovery
 
 Completion evidence:
 
@@ -213,14 +213,14 @@ LESSON 04 COMPLETE
 
 Capability practiced: Recovering from an unproductive AI interaction
 Learner artifact: A deliberate recovery action with a reason
-Memory anchor: Redirect, restart, or stop—you control the conversation.
+Memory anchor: Redirect, restart, or stopâ€”you control the conversation.
 ```
 
 # Pause and Resume
 
 ```text
 AF-001 Resume State
-Lesson: LESSON_04 — Recover When the Conversation Goes Wrong
+Lesson: LESSON_04 â€” Recover When the Conversation Goes Wrong
 Completed checkpoint: [1, 2, or 3]
 Pending learner action: [state the unfinished action]
 Mode: [Conversational or Direct]
@@ -229,7 +229,7 @@ Mode: [Conversational or Direct]
 # Next Lesson Boundary
 
 ```text
-LESSON_05 — Protect Information Before You Share
+LESSON_05 â€” Protect Information Before You Share
 ```
 
 Retrieve and verify it before beginning.
@@ -237,3 +237,4 @@ Retrieve and verify it before beginning.
 ---
 
 End of Lesson 04
+

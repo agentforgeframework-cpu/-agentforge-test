@@ -1,13 +1,13 @@
-# AF-001 Setup
+﻿# AF-001 Setup
 
 **Kit Type:** Training Kit  
 **Status:** Active Development  
 **Version:** 0.1  
-**Repository:** AF-001 — Everyday AI Bootcamp  
+**Repository:** AF-001 â€” Everyday AI Bootcamp  
 **Repository Object:** ROOT_SETUP  
 **Repository Path:** af-001-everyday-ai-bootcamp/SETUP.md  
-**Raw:** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-dev/refs/heads/main/af-001-everyday-ai-bootcamp/SETUP.md  
-**This File (Raw):** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-dev/refs/heads/main/af-001-everyday-ai-bootcamp/SETUP.md  
+**Raw:** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/SETUP.md  
+**This File (Raw):** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/SETUP.md  
 
 ---
 
@@ -33,7 +33,7 @@ In LOCAL mode:
 - use the supplied files as the authority for the course run;
 - do not attempt Internet retrieval while the required local Repository Objects are available;
 - do not use files from memory, prior conversations, search results, or cached copies;
-- treat an em dash (`—`) in the `LOCAL` column as an object intentionally excluded from the flat LOCAL deployment.
+- treat an em dash (`â€”`) in the `LOCAL` column as an object intentionally excluded from the flat LOCAL deployment.
 
 Before course execution, display:
 
@@ -74,7 +74,7 @@ If a required Repository Object is missing, inaccessible, or cannot be identifie
 In LOCAL mode, state:
 
 ```text
-LOCAL RESOLUTION FAILED — REQUIRED FILE NOT FOUND
+LOCAL RESOLUTION FAILED â€” REQUIRED FILE NOT FOUND
 ```
 
 Identify:
@@ -86,7 +86,7 @@ Identify:
 In RAW mode, state:
 
 ```text
-RETRIEVAL FAILED — EXACT FILE NOT VERIFIED
+RETRIEVAL FAILED â€” EXACT FILE NOT VERIFIED
 ```
 
 Identify:
@@ -111,11 +111,11 @@ The operating chain is:
 
 ```text
 SETUP.md
-→ establish and lock Repository Object Resolution Mode
-→ resolve and read LIBRARY.md
-→ resolve and read COURSE.md
-→ prepare the learner
-→ retrieve and activate the required lesson
+â†’ establish and lock Repository Object Resolution Mode
+â†’ resolve and read LIBRARY.md
+â†’ resolve and read COURSE.md
+â†’ prepare the learner
+â†’ retrieve and activate the required lesson
 ```
 
 Do not teach AF-001 from `README.md`, `SETUP.md`, or a summary of the repository. Detailed instruction begins only after the exact lesson file has been retrieved and activated.
@@ -124,7 +124,7 @@ Do not teach AF-001 from `README.md`, `SETUP.md`, or a summary of the repository
 
 # Purpose
 
-`SETUP.md` prepares the learner and the AI facilitator to begin AF-001 — Everyday AI Bootcamp correctly.
+`SETUP.md` prepares the learner and the AI facilitator to begin AF-001 â€” Everyday AI Bootcamp correctly.
 
 AF-001 is designed to be lightweight. It does not require programming, special software, a local development environment, or prior AI experience.
 
@@ -290,7 +290,7 @@ LESSON NN COMPLETE
 ```
 
 ```text
-LESSON NN+1 VERIFIED — BEGINNING LESSON NN+1
+LESSON NN+1 VERIFIED â€” BEGINNING LESSON NN+1
 ```
 
 Knowing or predicting the next lesson title is not sufficient. The next lesson becomes active only after exact retrieval and identity verification.
@@ -300,7 +300,7 @@ The facilitator must not continue from memory, inference, a prior summary, cache
 If the retrieved filename or lesson title does not match the expected identity, state:
 
 ```text
-IDENTITY VERIFICATION FAILED — LESSON NOT ACTIVATED
+IDENTITY VERIFICATION FAILED â€” LESSON NOT ACTIVATED
 ```
 
 Identify the expected lesson, retrieved filename, and retrieved lesson title. Then stop for Human-in-Command review.
@@ -314,7 +314,7 @@ AF-001 is self-paced. The learner may pause at any section, exercise, reflection
 When pausing, record visibly:
 
 ```text
-Course: AF-001 — Everyday AI Bootcamp
+Course: AF-001 â€” Everyday AI Bootcamp
 Active lesson: [FILE_HANDLE and title]
 Last completed section: [section]
 Interaction mode: [Conversational or Direct]
@@ -362,7 +362,7 @@ Interaction mode: [Conversational or Direct]
 Then display:
 
 ```text
-LESSON 01 VERIFIED — BEGINNING LESSON 01
+LESSON 01 VERIFIED â€” BEGINNING LESSON 01
 ```
 
 Begin instruction from the retrieved `LESSON_01.md` file.
@@ -393,3 +393,4 @@ The repository supplies the course. The AI facilitates it. The human remains in 
 ---
 
 End of Setup
+

@@ -1,4 +1,4 @@
-# Lesson 03 — Inspect What You Received
+﻿# Lesson 03 â€” Inspect What You Received
 
 **Kit Type:** Training Kit  
 **Status:** Active Development  
@@ -6,8 +6,8 @@
 **Course ID:** AF-001  
 **Repository Object:** LESSON_03  
 **Repository Path:** af-001-everyday-ai-bootcamp/lessons/LESSON_03.md  
-**Raw:** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-dev/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/LESSON_03.md  
-**This File (Raw):** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-dev/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/LESSON_03.md  
+**Raw:** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/LESSON_03.md  
+**This File (Raw):** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/LESSON_03.md  
 
 ---
 
@@ -37,12 +37,12 @@ Do not perform the lesson capability for the learner.
 # Facilitator Control
 
 **Primary capability:** Evaluate whether an AI result fits the need.  
-**Estimated time:** Approximately 12–15 minutes.  
+**Estimated time:** Approximately 12â€“15 minutes.  
 **Learner artifact:** A short inspection note naming at least one strength, one weakness, and one next action.  
 **Memory anchor:** **Read the result like an editor, not a customer.**  
 **Intentionally out of scope:** Comprehensive bias theory, formal logic, source verification, and large review taxonomies.
 
-The learner—not the facilitator—must identify the first weakness.
+The learnerâ€”not the facilitatorâ€”must identify the first weakness.
 
 # Begin the Lesson
 
@@ -50,7 +50,7 @@ Say:
 
 > AI output can sound finished before it is fit for use. Today you will inspect a result before accepting it.
 
-# EXPLAIN — Fit Comes Before Fluency
+# EXPLAIN â€” Fit Comes Before Fluency
 
 A result may be clear and still fail the job.
 
@@ -64,7 +64,7 @@ Use five plain inspection questions:
 
 Do not introduce another framework or acronym.
 
-# DEMONSTRATE — Inspect Before Fixing
+# DEMONSTRATE â€” Inspect Before Fixing
 
 Request:
 
@@ -88,7 +88,7 @@ Model inspection:
 
 Then stop. Do not demonstrate a full revision; this lesson teaches inspection.
 
-# GUIDE — Find the Problem
+# GUIDE â€” Find the Problem
 
 Present this clearly fictional result:
 
@@ -112,7 +112,7 @@ Stop and wait.
 
 If needed, prompt one question at a time from the five inspection questions.
 
-## CHECKPOINT 1 — Weakness Identified
+## CHECKPOINT 1 â€” Weakness Identified
 
 The learner should identify at least one of:
 
@@ -120,7 +120,7 @@ The learner should identify at least one of:
 - missing exact time;
 - missing invitation for questions;
 - unsuitable tone;
-- invented “conference area”;
+- invented â€œconference areaâ€;
 - wording that is not welcoming.
 
 Ask:
@@ -129,7 +129,7 @@ Ask:
 
 Stop and wait.
 
-## CHECKPOINT 2 — Next Action Chosen
+## CHECKPOINT 2 â€” Next Action Chosen
 
 Ask the learner to choose:
 
@@ -140,9 +140,9 @@ Ask the learner to choose:
 
 Require one sentence explaining why.
 
-Do not automatically recommend revision unless the learner’s choice is unreasonable and unsupported.
+Do not automatically recommend revision unless the learnerâ€™s choice is unreasonable and unsupported.
 
-# ENABLE — Inspect a Fresh Result
+# ENABLE â€” Inspect a Fresh Result
 
 Ask the learner to choose a safe request from:
 
@@ -159,7 +159,7 @@ Then say only:
 
 Stop and wait.
 
-## CHECKPOINT 3 — Independent Inspection
+## CHECKPOINT 3 â€” Independent Inspection
 
 Completion evidence:
 
@@ -188,7 +188,7 @@ Memory anchor: Read the result like an editor, not a customer.
 
 ```text
 AF-001 Resume State
-Lesson: LESSON_03 — Inspect What You Received
+Lesson: LESSON_03 â€” Inspect What You Received
 Completed checkpoint: [1, 2, or 3]
 Pending learner action: [state the unfinished action]
 Mode: [Conversational or Direct]
@@ -197,7 +197,7 @@ Mode: [Conversational or Direct]
 # Next Lesson Boundary
 
 ```text
-LESSON_04 — Recover When the Conversation Goes Wrong
+LESSON_04 â€” Recover When the Conversation Goes Wrong
 ```
 
 Retrieve and verify it before beginning.
@@ -205,3 +205,4 @@ Retrieve and verify it before beginning.
 ---
 
 End of Lesson 03
+

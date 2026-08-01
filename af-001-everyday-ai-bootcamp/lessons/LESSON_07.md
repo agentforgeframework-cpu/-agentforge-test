@@ -1,4 +1,4 @@
-# Lesson 07 — Apply the Cycle to Communication
+﻿# Lesson 07 â€” Apply the Cycle to Communication
 
 **Kit Type:** Training Kit  
 **Status:** Active Development  
@@ -6,8 +6,8 @@
 **Course ID:** AF-001  
 **Repository Object:** LESSON_07  
 **Repository Path:** af-001-everyday-ai-bootcamp/lessons/LESSON_07.md  
-**Raw:** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-dev/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/LESSON_07.md  
-**This File (Raw):** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-dev/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/LESSON_07.md  
+**Raw:** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/LESSON_07.md  
+**This File (Raw):** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/LESSON_07.md  
 
 ---
 
@@ -37,7 +37,7 @@ Do not perform the lesson capability for the learner.
 # Facilitator Control
 
 **Primary capability:** Apply earlier course capabilities to a familiar communication task.  
-**Estimated time:** Approximately 12–15 minutes.  
+**Estimated time:** Approximately 12â€“15 minutes.  
 **Learner artifact:** A communication draft with an inspection note, meaningful revision, and fit-for-use decision.  
 **Memory anchor:** **Purpose, inspect, refine, decide.**  
 **Intentionally out of scope:** Comprehensive writing instruction, grammar lessons, branding, and advanced persuasive writing.
@@ -50,15 +50,15 @@ Say:
 
 > Today you will use the skills you already practiced on a real communication task. The goal is not perfect writing. The goal is staying in command of the process.
 
-# EXPLAIN — Use the Cycle
+# EXPLAIN â€” Use the Cycle
 
 For this lesson:
 
-> **Choose → Ask → Inspect → Refine → Decide**
+> **Choose â†’ Ask â†’ Inspect â†’ Refine â†’ Decide**
 
 Checking may be added if the message contains facts that matter.
 
-# DEMONSTRATE — One Short Communication Cycle
+# DEMONSTRATE â€” One Short Communication Cycle
 
 Task: remind volunteers about a change in arrival time.
 
@@ -72,7 +72,7 @@ Model briefly:
 
 Do not generate several versions.
 
-# GUIDE — Choose a Communication Task
+# GUIDE â€” Choose a Communication Task
 
 Offer:
 
@@ -95,7 +95,7 @@ Then ask:
 
 Stop and wait.
 
-## CHECKPOINT 1 — Task Bounded
+## CHECKPOINT 1 â€” Task Bounded
 
 Ask the learner to make the request and receive a first draft.
 
@@ -107,7 +107,7 @@ Then say:
 
 Stop and wait.
 
-## CHECKPOINT 2 — First Result Inspected
+## CHECKPOINT 2 â€” First Result Inspected
 
 Ask the learner to request one meaningful revision.
 
@@ -119,7 +119,7 @@ After the revision, ask:
 
 Stop and wait.
 
-# ENABLE — Complete a Second Small Cycle
+# ENABLE â€” Complete a Second Small Cycle
 
 Say:
 
@@ -129,7 +129,7 @@ Do not provide a template unless requested.
 
 Stop and wait.
 
-## CHECKPOINT 3 — Transfer Demonstrated
+## CHECKPOINT 3 â€” Transfer Demonstrated
 
 Completion evidence:
 
@@ -159,7 +159,7 @@ Memory anchor: Purpose, inspect, refine, decide.
 
 ```text
 AF-001 Resume State
-Lesson: LESSON_07 — Apply the Cycle to Communication
+Lesson: LESSON_07 â€” Apply the Cycle to Communication
 Completed checkpoint: [1, 2, or 3]
 Pending learner action: [state the unfinished action]
 Mode: [Conversational or Direct]
@@ -168,7 +168,7 @@ Mode: [Conversational or Direct]
 # Next Lesson Boundary
 
 ```text
-LESSON_08 — Create and Refine an AI-Generated Image
+LESSON_08 â€” Create and Refine an AI-Generated Image
 ```
 
 Retrieve and verify it before beginning.
@@ -176,3 +176,4 @@ Retrieve and verify it before beginning.
 ---
 
 End of Lesson 07
+

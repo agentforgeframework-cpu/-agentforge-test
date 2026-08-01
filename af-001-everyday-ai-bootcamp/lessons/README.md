@@ -1,19 +1,19 @@
-# AF-001 Lessons
+﻿# AF-001 Lessons
 
 **Kit Type:** Training Kit  
 **Status:** Active Development  
 **Version:** 0.1  
-**Repository:** AF-001 — Everyday AI Bootcamp  
+**Repository:** AF-001 â€” Everyday AI Bootcamp  
 **Repository Object:** LESSONS_README  
 **Repository Path:** af-001-everyday-ai-bootcamp/lessons/README.md  
-**Raw:** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-dev/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/README.md  
-**This File (Raw):** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-dev/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/README.md  
+**Raw:** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/README.md  
+**This File (Raw):** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/README.md  
 
 ---
 
 # Purpose
 
-This folder contains the authoritative lesson files for AF-001 — Everyday AI Bootcamp.
+This folder contains the authoritative lesson files for AF-001 â€” Everyday AI Bootcamp.
 
 Each `LESSON_NN.md` file is an independently retrievable instructional unit.
 
@@ -23,9 +23,9 @@ Course operation is governed by:
 
 ```text
 SETUP.md
-→ LIBRARY.md
-→ COURSE.md
-→ active LESSON_NN.md
+â†’ LIBRARY.md
+â†’ COURSE.md
+â†’ active LESSON_NN.md
 ```
 
 # Lesson Sequence
@@ -47,7 +47,7 @@ SETUP.md
 | 13 | `LESSON_13` | `LESSON_13.md` | Building Your AI Playbook |
 | 14 | `LESSON_14` | `LESSON_14.md` | Capstone Application |
 
-“Day” is a learner-facing sequence label. It does not require one lesson per calendar day.
+â€œDayâ€ is a learner-facing sequence label. It does not require one lesson per calendar day.
 
 # Lesson Authority
 
@@ -84,11 +84,11 @@ For every lesson, the AI facilitator must:
 
 # Development Status
 
-Lessons 01–05 are under an instructional freeze following approved revisions.
+Lessons 01â€“05 are under an instructional freeze following approved revisions.
 
-Do not perform additional instructional redesign of Lessons 01–05 until at least 15–20 additional human learners have completed the course, unless the human explicitly directs a change.
+Do not perform additional instructional redesign of Lessons 01â€“05 until at least 15â€“20 additional human learners have completed the course, unless the human explicitly directs a change.
 
-Lessons 06–14 are active development drafts and should be installed, reviewed, and tested as a sequence before any freeze decision.
+Lessons 06â€“14 are active development drafts and should be installed, reviewed, and tested as a sequence before any freeze decision.
 
 This status statement does not itself approve, authorize, promote, or release any lesson. Those decisions remain with the human.
 
@@ -122,3 +122,4 @@ When adding, removing, or renaming a lesson:
 ---
 
 End of Lessons README
+

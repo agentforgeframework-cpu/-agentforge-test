@@ -1,4 +1,4 @@
-# Lesson 08 — Create and Refine an AI-Generated Image
+﻿# Lesson 08 â€” Create and Refine an AI-Generated Image
 
 **Kit Type:** Training Kit  
 **Status:** Active Development  
@@ -6,8 +6,8 @@
 **Course ID:** AF-001  
 **Repository Object:** LESSON_08  
 **Repository Path:** af-001-everyday-ai-bootcamp/lessons/LESSON_08.md  
-**Raw:** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-dev/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/LESSON_08.md  
-**This File (Raw):** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-dev/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/LESSON_08.md  
+**Raw:** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/LESSON_08.md  
+**This File (Raw):** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/LESSON_08.md  
 
 ---
 
@@ -37,7 +37,7 @@ Do not perform the lesson capability for the learner.
 # Facilitator Control
 
 **Primary capability:** Direct and critically inspect a generated visual result.  
-**Estimated time:** Approximately 15–17 minutes.  
+**Estimated time:** Approximately 15â€“17 minutes.  
 **Learner artifact:** A generated image or visual plan, an inspection note, and a revision decision.  
 **Memory anchor:** **Generated images are created content, not evidence.**  
 **Intentionally out of scope:** Professional graphic design, image editing mastery, video, copyrighted-style imitation, and deceptive media.
@@ -48,9 +48,9 @@ If image generation is unavailable, use the fallback activity in this file. Do n
 
 Say:
 
-> Visual AI follows the same basic pattern as text: state the purpose, inspect the first result, refine it, and decide whether it fits. A generated image is created content—not proof that anything happened.
+> Visual AI follows the same basic pattern as text: state the purpose, inspect the first result, refine it, and decide whether it fits. A generated image is created contentâ€”not proof that anything happened.
 
-# EXPLAIN — Describe the Job, Then Inspect the Picture
+# EXPLAIN â€” Describe the Job, Then Inspect the Picture
 
 Useful visual direction may include:
 
@@ -64,7 +64,7 @@ Useful visual direction may include:
 
 The first image may contain mismatches, missing elements, visual errors, or unintended implications.
 
-# DEMONSTRATE — One Visual Revision
+# DEMONSTRATE â€” One Visual Revision
 
 Example purpose:
 
@@ -90,7 +90,7 @@ Model one revision:
 Keep the horizontal composition, but move the people to the right, leave more empty space on the left, and remove any text-like markings.
 ```
 
-# GUIDE — Create a Safe Image
+# GUIDE â€” Create a Safe Image
 
 Offer choices:
 
@@ -113,7 +113,7 @@ Ask the learner to generate the image.
 
 Stop and wait.
 
-## CHECKPOINT 1 — First Image Created
+## CHECKPOINT 1 â€” First Image Created
 
 Ask the learner to inspect:
 
@@ -127,7 +127,7 @@ Do not identify the defects first.
 
 Stop and wait.
 
-## CHECKPOINT 2 — Revision Directed
+## CHECKPOINT 2 â€” Revision Directed
 
 Ask the learner to request one meaningful revision.
 
@@ -140,7 +140,7 @@ After the revision, ask:
 
 Stop and wait.
 
-# ENABLE — Independent Visual Cycle
+# ENABLE â€” Independent Visual Cycle
 
 Say:
 
@@ -166,7 +166,7 @@ Ask the learner to:
 
 This fallback satisfies the capability without pretending an image was generated.
 
-## CHECKPOINT 3 — Visual Judgment Demonstrated
+## CHECKPOINT 3 â€” Visual Judgment Demonstrated
 
 Completion evidence:
 
@@ -196,7 +196,7 @@ Memory anchor: Generated images are created content, not evidence.
 
 ```text
 AF-001 Resume State
-Lesson: LESSON_08 — Create and Refine an AI-Generated Image
+Lesson: LESSON_08 â€” Create and Refine an AI-Generated Image
 Completed checkpoint: [1, 2, or 3]
 Pending learner action: [state the unfinished action]
 Mode: [Conversational or Direct]
@@ -205,7 +205,7 @@ Mode: [Conversational or Direct]
 # Next Lesson Boundary
 
 ```text
-LESSON_09 — Know What Needs Checking
+LESSON_09 â€” Know What Needs Checking
 ```
 
 Retrieve and verify it before beginning.
@@ -213,3 +213,4 @@ Retrieve and verify it before beginning.
 ---
 
 End of Lesson 08
+

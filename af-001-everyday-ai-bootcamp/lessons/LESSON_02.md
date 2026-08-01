@@ -1,4 +1,4 @@
-# Lesson 02 — Begin With Purpose and Context
+﻿# Lesson 02 â€” Begin With Purpose and Context
 
 **Kit Type:** Training Kit  
 **Status:** Active Development  
@@ -6,8 +6,8 @@
 **Course ID:** AF-001  
 **Repository Object:** LESSON_02  
 **Repository Path:** af-001-everyday-ai-bootcamp/lessons/LESSON_02.md  
-**Raw:** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-dev/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/LESSON_02.md  
-**This File (Raw):** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-dev/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/LESSON_02.md  
+**Raw:** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/LESSON_02.md  
+**This File (Raw):** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/LESSON_02.md  
 
 ---
 
@@ -37,7 +37,7 @@ Do not perform the lesson capability for the learner.
 # Facilitator Control
 
 **Primary capability:** Provide relevant purpose and context.  
-**Estimated time:** Approximately 12–15 minutes.  
+**Estimated time:** Approximately 12â€“15 minutes.  
 **Learner artifact:** A revised request containing only useful context.  
 **Memory anchor:** **Tell the AI what matters for the job.**  
 **Intentionally out of scope:** Memorized prompt formulas, exhaustive prompt templates, model parameters, and advanced prompt engineering.
@@ -54,9 +54,9 @@ Success requires the learner to decide:
 
 Say:
 
-> A better result usually comes from useful context, not magic wording. Today you will decide what the AI needs to know—and what it does not.
+> A better result usually comes from useful context, not magic wording. Today you will decide what the AI needs to knowâ€”and what it does not.
 
-# EXPLAIN — Context Is Job-Relevant Information
+# EXPLAIN â€” Context Is Job-Relevant Information
 
 Context helps the AI understand the job.
 
@@ -70,7 +70,7 @@ Useful context often includes:
 
 Not every request needs every item. Context should serve the task.
 
-# DEMONSTRATE — Add What Matters
+# DEMONSTRATE â€” Add What Matters
 
 Show:
 
@@ -97,7 +97,7 @@ Model the reasoning:
 - Form: friendly short paragraph.
 - Unnecessary details were left out.
 
-# GUIDE — Decide What Matters
+# GUIDE â€” Decide What Matters
 
 Present this situation:
 
@@ -115,7 +115,7 @@ Stop and wait.
 
 Do not fill the answers automatically.
 
-## CHECKPOINT 1 — Context Selected
+## CHECKPOINT 1 â€” Context Selected
 
 After the learner responds, help them turn their choices into one request. Preserve their decisions. Do not add invented event details.
 
@@ -123,7 +123,7 @@ Ask the learner to send the request and inspect the result.
 
 Stop and wait.
 
-## CHECKPOINT 2 — Context Tested
+## CHECKPOINT 2 â€” Context Tested
 
 Ask:
 
@@ -133,7 +133,7 @@ Ask:
 
 The learner may revise once.
 
-# ENABLE — Build a Relevant Request
+# ENABLE â€” Build a Relevant Request
 
 Offer bounded choices:
 
@@ -151,7 +151,7 @@ Stop and wait.
 
 After the result appears, ask the learner to identify which part of the context had the greatest effect.
 
-## CHECKPOINT 3 — Relevant Context Used
+## CHECKPOINT 3 â€” Relevant Context Used
 
 Completion evidence:
 
@@ -180,7 +180,7 @@ Memory anchor: Tell the AI what matters for the job.
 
 ```text
 AF-001 Resume State
-Lesson: LESSON_02 — Begin With Purpose and Context
+Lesson: LESSON_02 â€” Begin With Purpose and Context
 Completed checkpoint: [1, 2, or 3]
 Pending learner action: [state the unfinished action]
 Mode: [Conversational or Direct]
@@ -189,7 +189,7 @@ Mode: [Conversational or Direct]
 # Next Lesson Boundary
 
 ```text
-LESSON_03 — Inspect What You Received
+LESSON_03 â€” Inspect What You Received
 ```
 
 Retrieve and verify it before beginning.
@@ -197,3 +197,4 @@ Retrieve and verify it before beginning.
 ---
 
 End of Lesson 02
+

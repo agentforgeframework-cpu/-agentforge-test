@@ -1,4 +1,4 @@
-# Lesson 06 — Choose the Right Part of the Task for AI
+﻿# Lesson 06 â€” Choose the Right Part of the Task for AI
 
 **Kit Type:** Training Kit  
 **Status:** Active Development  
@@ -6,8 +6,8 @@
 **Course ID:** AF-001  
 **Repository Object:** LESSON_06  
 **Repository Path:** af-001-everyday-ai-bootcamp/lessons/LESSON_06.md  
-**Raw:** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-dev/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/LESSON_06.md  
-**This File (Raw):** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-dev/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/LESSON_06.md  
+**Raw:** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/LESSON_06.md  
+**This File (Raw):** https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-001-everyday-ai-bootcamp/lessons/LESSON_06.md  
 
 ---
 
@@ -37,7 +37,7 @@ Do not perform the lesson capability for the learner.
 # Facilitator Control
 
 **Primary capability:** Delegate a bounded and suitable portion of a task.  
-**Estimated time:** Approximately 12–15 minutes.  
+**Estimated time:** Approximately 12â€“15 minutes.  
 **Learner artifact:** A task divided into AI-assist, AI-with-review, human-only, and unsuitable portions.  
 **Memory anchor:** **Problem first. Tool second. Responsibility always.**  
 **Intentionally out of scope:** Tool catalogs, workflow automation, enterprise process design, and product comparison.
@@ -46,9 +46,9 @@ Do not perform the lesson capability for the learner.
 
 Say:
 
-> The question is not simply, “Can AI do this?” Today you will decide which part of a task AI may assist with and which parts remain human.
+> The question is not simply, â€œCan AI do this?â€ Today you will decide which part of a task AI may assist with and which parts remain human.
 
-# EXPLAIN — Divide the Work
+# EXPLAIN â€” Divide the Work
 
 Use four practical categories:
 
@@ -59,7 +59,7 @@ Use four practical categories:
 
 One task may contain all four.
 
-# DEMONSTRATE — Planning a Community Event
+# DEMONSTRATE â€” Planning a Community Event
 
 Task: organize a small community meeting.
 
@@ -75,7 +75,7 @@ Say:
 
 > AI can support pieces of the work without owning the task.
 
-# GUIDE — Divide a Familiar Task
+# GUIDE â€” Divide a Familiar Task
 
 Offer choices:
 
@@ -89,7 +89,7 @@ Ask the learner to choose one and list three to six parts of it.
 
 Stop and wait.
 
-## CHECKPOINT 1 — Task Parts Identified
+## CHECKPOINT 1 â€” Task Parts Identified
 
 Ask the learner to place each part into one of the four categories.
 
@@ -105,7 +105,7 @@ Use questions only when needed:
 
 Stop and wait.
 
-## CHECKPOINT 2 — Responsibility Divided
+## CHECKPOINT 2 â€” Responsibility Divided
 
 Ask:
 
@@ -120,7 +120,7 @@ The answer should name:
 
 Stop and wait.
 
-# ENABLE — Make a Delegation Decision
+# ENABLE â€” Make a Delegation Decision
 
 Present:
 
@@ -132,7 +132,7 @@ Say:
 
 Stop and wait.
 
-## CHECKPOINT 3 — Bounded Delegation Demonstrated
+## CHECKPOINT 3 â€” Bounded Delegation Demonstrated
 
 Completion evidence:
 
@@ -162,7 +162,7 @@ Memory anchor: Problem first. Tool second. Responsibility always.
 
 ```text
 AF-001 Resume State
-Lesson: LESSON_06 — Choose the Right Part of the Task for AI
+Lesson: LESSON_06 â€” Choose the Right Part of the Task for AI
 Completed checkpoint: [1, 2, or 3]
 Pending learner action: [state the unfinished action]
 Mode: [Conversational or Direct]
@@ -171,7 +171,7 @@ Mode: [Conversational or Direct]
 # Next Lesson Boundary
 
 ```text
-LESSON_07 — Apply the Cycle to Communication
+LESSON_07 â€” Apply the Cycle to Communication
 ```
 
 Retrieve and verify it before beginning.
@@ -179,3 +179,4 @@ Retrieve and verify it before beginning.
 ---
 
 End of Lesson 06
+
