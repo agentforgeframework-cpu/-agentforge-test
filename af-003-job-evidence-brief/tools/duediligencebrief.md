@@ -2,7 +2,7 @@
 
 **Kit Type:** Tool Kit  
 **Status:** Public Beta Test  
-**Version:** 0.9-beta  
+**Version:** 0.9.1-beta  
 
 Repository:  
 AF-003 - Job Evidence Brief Tool Kit
@@ -72,6 +72,8 @@ Primary sources retrieved:
 Publication dates checked:
 Current strategic claims verified:
 Material factual claims cited:
+Material source conflicts identified:
+Interpretive statements labeled:
 Unsupported search snippets excluded:
 ```
 
@@ -108,6 +110,17 @@ For every material factual claim:
 - distinguish current information from historical background.
 
 Do not rely on unsupported search snippets.
+
+### Source Conflicts and Interpretation
+
+When credible sources conflict on a material fact:
+
+- do not silently select one version;
+- identify the conflicting claims and their sources;
+- state which source appears more authoritative when that can be determined;
+- leave the matter unresolved when the available evidence does not support a reliable conclusion.
+
+Keep verified facts and interpretation visibly separate. Label interpretive statements as interpretation, inference, or an open question rather than presenting them as established fact.
 
 ---
 
@@ -230,6 +243,10 @@ Summarize what the posting explicitly says about the role.
 
 List only developments that appear material to understanding the opportunity.
 
+## Source Conflicts and Interpretations
+
+Include this section only when material conflicts or necessary interpretations exist. Preserve unresolved conflicts and label interpretations clearly.
+
 ## Questions Worth Asking
 
 Provide practical questions that test assumptions, clarify priorities, or improve candidate understanding.
@@ -265,6 +282,8 @@ Do not:
 - rank the candidate;
 - evaluate candidate fit;
 - convert rumors into findings;
+- silently resolve material conflicts between credible sources;
+- present interpretation as verified fact;
 - repeat generic company facts that do not help understand the opportunity;
 - produce an unsourced collection of search results.
 

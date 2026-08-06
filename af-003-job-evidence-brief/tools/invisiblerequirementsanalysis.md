@@ -2,7 +2,7 @@
 
 **Kit Type:** Tool Kit  
 **Status:** Public Beta Test  
-**Version:** 0.9-beta  
+**Version:** 0.9.1-beta  
 
 Repository:  
 AF-003 - Job Evidence Brief Tool Kit
@@ -175,7 +175,7 @@ These labels may be included in working notes but need not appear in downstream 
 1. Confirm the explicit requirements already captured in the Job Evidence Brief.
 2. Review the verified context in the Due Diligence Brief.
 3. Identify signals that may imply additional capability needs.
-4. Eliminate anything already stated directly in the posting.
+4. For every proposed Invisible Requirement, identify the nearest explicit language in the posting and state the additional unstated expectation being inferred. If the posting already states substantially the same capability, or no meaningful additional expectation can be identified, discard the item.
 5. Eliminate fashionable or generic capabilities unsupported by the employer context.
 6. Identify no more than five defensible Invisible Requirements.
 7. State the factual basis for each inference.
@@ -198,7 +198,7 @@ These labels may be included in working notes but need not appear in downstream 
 
 | Possible Invisible Requirement | Basis for the Inference | Supporting Candidate Evidence | Evidence Relationship | Inference Strength |
 | --- | --- | --- | --- | --- |
-| Hypothesis | Verified context supporting the hypothesis | Validated evidence or clear gap | Direct / Adjacent / Transferable / Gap | Strongly Supported / Reasonably Suggested |
+| Hypothesis | Nearest explicit posting language; additional unstated expectation; verified context supporting the inference | Validated evidence or clear gap | Direct / Adjacent / Transferable / Gap | Strongly Supported / Reasonably Suggested |
 
 Limit the final table to the strongest three to five items.
 
@@ -232,6 +232,7 @@ Do not make final application decisions for the candidate.
 The analysis shall:
 
 - distinguish explicit requirements from inferred ones;
+- exclude any proposed item that merely repeats or rephrases an explicit posting requirement;
 - identify the factual basis for every inference;
 - use cautious language;
 - avoid assuming internal employer intent;
@@ -279,6 +280,7 @@ The Qualifications Brief may use selected insights only after converting them in
 A successful analysis should:
 
 - add useful insight beyond the literal posting;
+- show what new unstated expectation is inferred beyond the nearest explicit posting language;
 - remain traceable to verified context;
 - identify only a few defensible hypotheses;
 - clearly communicate uncertainty;

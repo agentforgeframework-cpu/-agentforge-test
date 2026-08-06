@@ -2,7 +2,7 @@
 
 **Kit Type:** Tool Kit  
 **Status:** Public Beta Test  
-**Version:** 0.9-beta  
+**Version:** 0.9.1-beta  
 
 Repository:  
 AF-003 - Job Evidence Brief Tool Kit
@@ -165,6 +165,8 @@ Use only:
 
 When an upstream Invisible Requirements finding is used, rewrite it as professionally appropriate candidate positioning. Do not state that the employer "really wants" something or treat an unconfirmed hypothesis as fact.
 
+Preserve upstream evidence classifications. If the Job Evidence Brief or another validated upstream artifact classifies evidence as Adjacent, Transferable, or Gap, do not present it as Direct unless new candidate source material supports the stronger classification. Downstream presentation may clarify evidence, but it may not strengthen it solely for persuasive effect.
+
 The Qualifications Brief should communicate value, not expose the candidate's private analytical work.
 
 ---
@@ -230,9 +232,11 @@ Preferred wording:
 
 ---
 
-### 2. Direct Alignment
+### 2. Most Relevant Alignment
 
 Select three to five major areas of alignment from the Job Evidence Brief.
+
+Use wording that preserves whether the evidence is direct, adjacent, or transferable. Do not place materially adjacent or transferable evidence under language that implies direct experience.
 
 Examples:
 
@@ -289,6 +293,8 @@ Possible sequence:
 5. Produce usable deliverables
 
 The approach should be customized to the opportunity.
+
+When the candidate lacks direct expertise in a required domain, frame the approach as leadership, discovery, coordination, or work with established domain experts rather than implying unsupported hands-on authority.
 
 Do not promise deliverables that the candidate cannot reasonably produce.
 
@@ -354,7 +360,7 @@ Do not include a portfolio link if the destination is unfinished, difficult to n
 
 Close with a concise statement connecting the candidate’s experience to the central business problem.
 
-Acknowledge a meaningful domain gap when doing so strengthens credibility.
+Acknowledge any material gap identified in the Job Evidence Brief when omitting it would create a misleading impression of fit, especially when the gap affects a central required qualification. Preserve the upstream severity of the gap unless new candidate evidence has been introduced.
 
 Example:
 
@@ -418,9 +424,12 @@ Revise or remove unsupported and overstated claims.
 Clearly distinguish:
 
 * completed work;
+* direct, adjacent, transferable, or missing evidence;
 * inferred capability;
 * proposed approach;
 * probable employer need.
+
+Compare the final draft with the Job Evidence Brief. Do not soften a material upstream gap into a minor learning need or "domain fluency" issue unless the source record already demonstrates partial ownership of that domain.
 
 ---
 
@@ -433,7 +442,8 @@ Every candidate claim is traceable:
 Every employer-context claim is sourced or taken directly from the posting:
 Every proposed approach is clearly labeled:
 No private hypothesis is presented as employer fact:
-Any meaningful gap is handled honestly:
+Any material gap whose omission would mislead the reader is handled honestly and at the same severity as the upstream evidence:
+No Adjacent, Transferable, or Gap evidence has been reclassified as Direct without new source material:
 Candidate has not yet approved sharing:
 ```
 
