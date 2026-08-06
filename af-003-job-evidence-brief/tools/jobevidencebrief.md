@@ -1,15 +1,30 @@
-# AF-003 Job Evidence Brief v0.1
+# AF-003 Job Evidence Brief
 
-Status: FROZEN
-Repository State: TEST
+**Kit Type:** Tool Kit  
+**Status:** Production Baseline in Test  
+**Version:** 1.0  
 
-Last Updated: 2026-06-22
+Repository:  
+AF-003 - Job Evidence Brief Tool Kit
 
-## Post-Freeze Corrections (v0.1a)
+Repository Object:  
+`ROOT_LIBRARY`
 
-- No Architectural Change
-- No Workflow Change
-- No Scope Change
+Raw:  
+https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-003-job-evidence-brief/LIBRARY.md
+
+This File (Raw):  
+https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-test/refs/heads/main/af-003-job-evidence-brief/tools/jobevidencebrief.md
+
+---
+
+## Development Note
+
+This file is the stable production baseline copied into TEST as the stable workflow baseline.
+
+Do not expand its purpose to include online company research, invisible requirements, candidate scoring, or external qualifications-document production.
+
+---
 
 ## Purpose
 
@@ -39,18 +54,16 @@ Acceptable:
 
 AF-003 produces the strongest results when evaluating a specific posted opportunity.
 
----
-
 ### Candidate Information
 
 Any combination of:
 
-* Resume
-* Career history
-* Accomplishments
-* Project descriptions
-* Professional biography
-* Notes from the candidate
+- Resume
+- Career history
+- Accomplishments
+- Project descriptions
+- Professional biography
+- Notes from the candidate
 
 Incomplete information is acceptable.
 
@@ -62,9 +75,9 @@ Review the target role and candidate information.
 
 Identify:
 
-1. Major responsibilities or requirements
-2. Probable business purpose or business outcome associated with the requirement
-3. Evidence from the candidate's background that demonstrates capability
+1. Major responsibilities or requirements.
+2. Probable business purpose or business outcome associated with each requirement.
+3. Evidence from the candidate's background that demonstrates capability.
 
 Create a Job Evidence Brief using the format below.
 
@@ -78,7 +91,7 @@ Do not infer scope, responsibility, expertise, or business impact beyond what is
 
 If evidence is weak or unavailable, indicate that clearly.
 
-The "Why This Matters" column should identify a probable business purpose or business outcome associated with the requirement. Exact employer intent may be unknown.
+The Probable Business Purpose column should identify a probable business purpose or outcome associated with the requirement. Exact employer intent may be unknown.
 
 Candidates should provide additional accomplishments, projects, industry experience, or career history that may not appear on a current resume.
 
@@ -98,10 +111,9 @@ Brevity improves readability and usability.
 
 Use only the level of detail necessary to communicate the business purpose or supporting evidence.
 
-| Job Requirement | Probable Business Purpose             | Supporting Candidate Evidence                             |
-| --------------- | ------------------------------------- | --------------------------------------------------------- |
-| Requirement     | Business objective or business impact | Relevant experience, accomplishment, project, or evidence |
-| Requirement     | Business objective or business impact | Relevant experience, accomplishment, project, or evidence |
+| Job Requirement | Probable Business Purpose | Supporting Candidate Evidence |
+| --- | --- | --- |
+| Requirement | Business objective or business impact | Relevant experience, accomplishment, project, or evidence |
 
 ---
 
@@ -111,20 +123,19 @@ After completing the output, identify the strongest reusable examples from the c
 
 Examples may include:
 
-* major accomplishments
-* measurable outcomes
-* leadership examples
-* business impact stories
-* operational successes
+- major accomplishments;
+- measurable outcomes;
+- leadership examples;
+- business impact stories;
+- operational successes.
 
 Format:
 
 | Evidence Asset | Why It Is Strong |
-| -------------- | ---------------- |
-| Example        | Explanation      |
-| Example        | Explanation      |
+| --- | --- |
+| Example | Explanation |
 
-Limit to the top 5–10 examples.
+Limit the section to the top 5-10 examples.
 
 Evidence Assets may serve as source material for resumes, interviews, networking conversations, portfolios, LinkedIn posts, or other career-related materials.
 
@@ -134,6 +145,6 @@ Evidence Assets may serve as source material for resumes, interviews, networking
 
 The output should help answer:
 
-"What evidence demonstrates my ability to create value in this role?"
+> What evidence demonstrates my ability to create value in this role?
 
-using evidence already present in the candidate's experience.
+Use evidence already present in the candidate's experience.
